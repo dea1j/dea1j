@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning: React, NodeJs, Flask
-- 📫 How to reach me: [Twitter](twitter.com/dea1j), [Email](jdayo2012@gmail.com).
+- 📫 How to reach me: [Twitter](twitter.com/dea1j), [LinkedIn](https://www.linkedin.com/in/james-dayo-77ba20111/), [Email](jdayo2012@gmail.com).
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything
 - ⚡ Fun fact: Listening to Music gives me Joy...
