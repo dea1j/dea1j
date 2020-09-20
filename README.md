@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning: React, NodeJs, Flask
+- 🌱 I’m currently learning: React, NodeJs, Django
 - 📫 How to reach me: [Twitter](twitter.com/dea1j), [LinkedIn](https://www.linkedin.com/in/james-dayo-77ba20111/), [Email](jdayo2012@gmail.com).
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything
