@@ -1,6 +1,6 @@
 ### Hi there 👋  i'm Dayo
 I'm a Software Developer. `I also play with Embeded Systems during my free time.`
-I'm currently working on some useful Projects to boost my portfolio.
+I'm an Machine Learning / AI enthusiast.
 ***Contributing to open source is one thing i'll love to focus on soon...***
 
 <!--
