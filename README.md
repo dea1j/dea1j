@@ -1,7 +1,7 @@
 ### Hi there 👋  i'm Dayo
 I'm a Software Developer.
 `I'm also a Machine Learning / AI enthusiast.`
-***Contributing to open source is one thing i'll love to focus on soon...***
+***Lifelong learner, self driven, research oriented and love emerging technologies...***
 
 <!--
 **dea1j/dea1j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
