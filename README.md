@@ -1,5 +1,5 @@
 ### Hi there 👋  i'm Dayo
-I'm a Software Developer.
+I'm a FullStack Developer.
 `I'm also a Machine Learning / AI enthusiast.`
 ***Lifelong learner, self driven, research oriented and love emerging technologies...***
 
