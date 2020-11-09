@@ -1,6 +1,6 @@
 ### Hi there 👋  i'm Dayo
 I'm a FullStack Developer.
-`I'm also a Machine Learning / AI enthusiast.`
+`I'm also an IOT, Machine Learning / AI enthusiast.`
 ***Lifelong learner, self driven, research oriented and love emerging technologies...***
 
 <!--
@@ -8,7 +8,7 @@ I'm a FullStack Developer.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my coding skills
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
