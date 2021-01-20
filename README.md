@@ -6,6 +6,11 @@ I'm a FullStack Developer.
 <!--
 **dea1j/dea1j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+I am an enthusiastic front-end developer, who always works with full passion and responsibility. I am well skilled in front end technologies like HTML5, CSS, Vanilla JS, and React JS. I am currently looking into RESTFUL API's using NODE.js and Mongo as Database (MERN). I am always looking at new adventures to challenge my skills.
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my coding skills
