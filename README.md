@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](twitter.com/dea1j), [LinkedIn](https://www.linkedin.com/in/james-dayo-77ba20111/).
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything
-- ⚡ Fun fact: ❤️ Music
+- ⚡ Fun fact: ❤️ JavaScript
