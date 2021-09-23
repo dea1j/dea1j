@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  -->
 
 
-- 🌱 I’m currently learning: ASP .Net
+- 🌱 I’m currently learning: Datastructures & Algorithm
 - 📫 How to reach me: [Twitter](twitter.com/dea1j), [LinkedIn](https://www.linkedin.com/in/james-dayo-77ba20111/).
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything
