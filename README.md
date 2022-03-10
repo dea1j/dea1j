@@ -1,5 +1,5 @@
 ### Hi 👋  i'm Dayo
-I'm a Software Developer, `an IOT, Machine Learning / AI enthusiast.`
+I'm a Software Developer, `Web3 & AI enthusiast.`
 ***Lifelong learner, self driven, research oriented and love emerging technologies...***
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  -->
 
 
-- 🌱 I’m currently learning: Datastructures & Algorithm
+- 🌱 I’m currently learning Web3
 - ⚡ Fun fact: ❤️ JavaScript
 <!-- - 📫 How to reach me: [Twitter](twitter.com/dea1j), [LinkedIn](https://www.linkedin.com/in/james-dayo-77ba20111/).
 - 😄 Pronouns: He/Him
