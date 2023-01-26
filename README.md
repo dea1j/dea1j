@@ -1,5 +1,5 @@
 ### Hi 👋  i'm Dayo
-I'm a Software Developer, `Web3 & AI enthusiast.`
+I'm a Software Developer, `AI enthusiast.`
 ***Lifelong learner, self driven, research oriented and love emerging technologies...***
 
 <!--
@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
  -->
 
-
+<!--
 - 🌱 I’m currently learning Solidity
 - ⚡ Fun fact: ❤️ JavaScript
-<!-- - 📫 How to reach me: [Twitter](twitter.com/dea1j), [LinkedIn](https://www.linkedin.com/in/james-dayo-77ba20111/).
+- 📫 How to reach me: [Twitter](twitter.com/dea1j), [LinkedIn](https://www.linkedin.com/in/james-dayo-77ba20111/).
 - 😄 Pronouns: He/Him
 - 💬 Ask me about anything
 -->
