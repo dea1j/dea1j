@@ -1,6 +1,8 @@
-### Hi 👋  i'm Dayo
-I'm a Software Developer, `AI enthusiast.`
-***Lifelong learner, self driven, research oriented and love emerging technologies...***
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327475A&size=25&lines=Hi%2C+there.+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+I'm Dayo, a Software Engineer,
+***`AI enthusiast,` `Lifelong learner,` `self driven,` `research oriented` and `love emerging technologies.`***
+I enjoy writing quality and robust applications following best practices 😉.
 
 <!--
 **dea1j/dea1j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
